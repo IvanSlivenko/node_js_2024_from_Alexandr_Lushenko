@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------- lesson 1
+https://youtu.be/XzGrNa4PFAk?list=PLM7wFzahDYnHsnxdDD4EGKFkgD1rVcM47
+
+node -v
+
+----------------------------------------------------------------------------  lesson 2
+https://youtu.be/nUxPA97WIcM?list=PLM7wFzahDYnHsnxdDD4EGKFkgD1rVcM47
+
+-----------------------------------
+00 : 10 : 59
+
