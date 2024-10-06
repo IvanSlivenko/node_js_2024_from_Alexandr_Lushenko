@@ -1,0 +1,94 @@
+{
+    "sports": [
+      {
+        "category": "Individual Sports",
+        "sports_list": [
+          "Athletics",
+          "Swimming",
+          "Tennis",
+          "Boxing",
+          "Gymnastics",
+          "Wrestling"
+        ]
+      },
+      {
+        "category": "Team Sports",
+        "sports_list": [
+          "Football",
+          "Basketball",
+          "Volleyball",
+          "Hockey",
+          "Rugby"
+        ]
+      },
+      {
+        "category": "Extreme Sports",
+        "sports_list": [
+          "Snowboarding",
+          "Rock Climbing",
+          "Kitesurfing",
+          "Skateboarding",
+          "Diving"
+        ]
+      },
+      {
+        "category": "Water Sports",
+        "sports_list": [
+          "Swimming",
+          "Sailing",
+          "Rowing",
+          "Water Polo",
+          "Surfing"
+        ]
+      },
+      {
+        "category": "Martial Arts",
+        "sports_list": [
+          "Karate",
+          "Judo",
+          "Muay Thai",
+          "Kung Fu",
+          "Aikido"
+        ]
+      },
+      {
+        "category": "Motor Sports",
+        "sports_list": [
+          "Formula 1",
+          "Rally",
+          "Motocross",
+          "Road Racing",
+          "Karting"
+        ]
+      },
+      {
+        "category": "Winter Sports",
+        "sports_list": [
+          "Skiing",
+          "Snowboarding",
+          "Figure Skating",
+          "Biathlon",
+          "Ice Hockey"
+        ]
+      },
+      {
+        "category": "Racket Sports",
+        "sports_list": [
+          "Tennis",
+          "Table Tennis",
+          "Badminton",
+          "Squash"
+        ]
+      },
+      {
+        "category": "eSports",
+        "sports_list": [
+          "League of Legends",
+          "Dota 2",
+          "Counter-Strike: Global Offensive",
+          "Fortnite"
+        ]
+      }
+    ]
+  }
+  
